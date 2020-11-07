@@ -1,0 +1,25 @@
+[debug] [2020-10-23T19:59:43.568Z] ----------------------------------------------------------------------
+[debug] [2020-10-23T19:59:43.570Z] Command:       /usr/bin/node /usr/bin/firebase init
+[debug] [2020-10-23T19:59:43.571Z] CLI Version:   8.13.1
+[debug] [2020-10-23T19:59:43.571Z] Platform:      linux
+[debug] [2020-10-23T19:59:43.571Z] Node Version:  v15.0.1
+[debug] [2020-10-23T19:59:43.571Z] Time:          Fri Oct 23 2020 19:59:43 GMT+0000 (Coordinated Universal Time)
+[debug] [2020-10-23T19:59:43.571Z] ----------------------------------------------------------------------
+[debug] [2020-10-23T19:59:43.571Z] 
+[debug] [2020-10-23T19:59:43.580Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-23T19:59:43.580Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /workspaces/coffeerun
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
